@@ -1,0 +1,1 @@
+Marker is absent after indirect trial: expected secure outcome.
